@@ -4,6 +4,7 @@
 <h3 align="center">𝐋𝐞𝐨𝐓𝐄𝐂𝐇™ | Talent Acquisition | HR Operation | Web Developer | Business Development | Data Science ┃ Tanza Talks | 𝐄𝐍𝐓𝐑𝐄𝐏𝐑𝐄𝐍𝐄𝐔𝐑 | Connecting 𝟓𝟎+ 𝐁𝐫𝐚𝐧𝐝𝐬 | 𝟑𝟓+ 𝐄𝐯𝐞𝐧𝐭𝐬</h3>
 
 <img src="./img/profile.png" width="300" align="right" />
+
 - 🔭 I’m currently working on [Job Portal `Saas` Platform](https://satyaprakash.me)
 
 - 👯 I’m looking to collaborate on [Saas related `Business Ideas`](https://satyaprakash.me)
@@ -43,7 +44,7 @@ In my free time, I love assimilating new skills, reading novels, watching movies
 
 📊 Github Stats
 
-<b>💻 GitHub Profile Stats</b>
+  <b>💻 GitHub Profile Stats</b>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashzip&show_icons=true&locale=en&layout=compact&theme=algolia" alt="prakashzip" /></p>
 
