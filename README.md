@@ -16,6 +16,7 @@
 
 <h3 align="left">More About Me:</h3>
 <p align="left">
+  
 - I have <b>3 Years<b> of experience in HR Operations, Business Development, Talent Acquisition, Event Planning and management.
 
 - I have strong technical skills in Web development (Mern Stack), UI/UX, WordPress, HRMS, BD, Talent Acquisition (ATS), and Event Planning and management (Trello, Slack, Excel, Taskade, Event Flow).
