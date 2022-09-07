@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [satyaprakash.me](https://satyaprakash.me)
 
-<h3 align="left">More About Me:</h3>
+<h3 align="left">🤖 More About Me:</h3>
 <p align="left">
   
 - I have <b>`3 Years`<b> of experience in HR Operations, Business Development, Talent Acquisition, Event Planning and management.
@@ -29,7 +29,7 @@ In my free time, I love assimilating new skills, reading novels, watching movies
 
 - <b>Specialities:</b> Talent Acquisition, HR Operation, Web Developer, Business Development, Data Science, Event Planning and management, UI/UX, Web Development, Digital Marketing, Email Marketing, Content writing
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📩 Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/prakash-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-pro" height="30" width="40" /></a>
 <a href="https://instagram.com/prakash.zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakash.zip" height="30" width="40" /></a>
