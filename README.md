@@ -42,9 +42,9 @@ In my free time, I love assimilating new skills, reading novels, watching movies
 
 <b>💻 GitHub Profile Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashzip&show_icons=true&locale=en&layout=compact" alt="prakashzip" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashzip&show_icons=true&locale=en&layout=compact&theme=algolia" alt="prakashzip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashzip&show_icons=true&locale=en" alt="prakashzip" height="165" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashzip&show_icons=true&locale=en&theme=algolia" alt="prakashzip" height="165" /></p>
 
 
 <!---
