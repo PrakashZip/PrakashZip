@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashzip&show_icons=true&locale=en&layout=compact" alt="prakashzip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashzip&show_icons=true&locale=en" alt="prakashzip" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashzip&show_icons=true&locale=en" alt="prakashzip" width="495" height="195" /></p>
 
 
 <!---
