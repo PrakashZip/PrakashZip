@@ -2,9 +2,9 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Entrepreneur;HR+Opperations;Talent+Acquisition;Data+Science+Trainee" alt="Typing SVG" /></a></h3>
 <h3 align="center">𝐋𝐞𝐨𝐓𝐄𝐂𝐇™ | Talent Acquisition | HR Operation | Web Developer | Business Development | Data Science ┃ Tanza Talks | 𝐄𝐍𝐓𝐑𝐄𝐏𝐑𝐄𝐍𝐄𝐔𝐑 | Connecting 𝟓𝟎+ 𝐁𝐫𝐚𝐧𝐝𝐬 | 𝟑𝟓+ 𝐄𝐯𝐞𝐧𝐭𝐬</h3>
 
-- 🔭 I’m currently working on [Job Portal Saas Platform](https://satyaprakash.me)
+- 🔭 I’m currently working on [Job Portal `Saas` Platform](https://satyaprakash.me)
 
-- 👯 I’m looking to collaborate on [Saas related Business Ideas](https://satyaprakash.me)
+- 👯 I’m looking to collaborate on [Saas related `Business Ideas`](https://satyaprakash.me)
 
 - 👨‍💻 All of my projects are available at [satyaprakash.me](https://satyaprakash.me)
 
@@ -17,7 +17,7 @@
 <h3 align="left">More About Me:</h3>
 <p align="left">
   
-- I have <b>3 Years<b> of experience in HR Operations, Business Development, Talent Acquisition, Event Planning and management.
+- I have <b>`3 Years`<b> of experience in HR Operations, Business Development, Talent Acquisition, Event Planning and management.
 
 - I have strong technical skills in Web development (Mern Stack), UI/UX, WordPress, HRMS, BD, Talent Acquisition (ATS), and Event Planning and management (Trello, Slack, Excel, Taskade, Event Flow).
 
