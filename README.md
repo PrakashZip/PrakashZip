@@ -46,7 +46,11 @@ In my free time, I love assimilating new skills, reading novels, watching movies
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashzip&show_icons=true&locale=en&theme=algolia" alt="prakashzip" height="165" /></p>
 
-
+<b>⚡ Recent GitHub Activity</b>
+  
+  <br/>
+   <a href="https://github.com/prakashzip"><img alt="Satya Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prakashzip&custom_title=prakash's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 <!---
 PrakashZip/PrakashZip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
