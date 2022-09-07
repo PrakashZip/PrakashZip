@@ -1,7 +1,9 @@
+<img src="./img/banner.png" width="1536" height="768" align="center" />
 <h1 align="center">Hi 👋, I'm Satya Prakash</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Entrepreneur;HR+Opperations;Talent+Acquisition;Data+Science+Trainee" alt="Typing SVG" /></a></h3>
 <h3 align="center">𝐋𝐞𝐨𝐓𝐄𝐂𝐇™ | Talent Acquisition | HR Operation | Web Developer | Business Development | Data Science ┃ Tanza Talks | 𝐄𝐍𝐓𝐑𝐄𝐏𝐑𝐄𝐍𝐄𝐔𝐑 | Connecting 𝟓𝟎+ 𝐁𝐫𝐚𝐧𝐝𝐬 | 𝟑𝟓+ 𝐄𝐯𝐞𝐧𝐭𝐬</h3>
 
+<img src="./img/profile.png" width="300" align="right" />
 - 🔭 I’m currently working on [Job Portal `Saas` Platform](https://satyaprakash.me)
 
 - 👯 I’m looking to collaborate on [Saas related `Business Ideas`](https://satyaprakash.me)
