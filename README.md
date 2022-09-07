@@ -56,9 +56,6 @@ In my free time, I love assimilating new skills, reading novels, watching movies
    <a href="https://github.com/prakashzip"><img alt="Satya Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prakashzip&custom_title=prakash's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prakash-pro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prakash-pro?trk=profile-badge">Satya Prakash</a></div>
-              
 <!---
 PrakashZip/PrakashZip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
