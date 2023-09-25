@@ -1,6 +1,6 @@
 <img src="./img/banner.png" align="center" />
 <h1 align="center">Hi 👋, I'm Satya Prakash</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Entrepreneur;HR+Opperations;Talent+Acquisition;Data+Science+Trainee" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=System+Architect;AWS+Cloud+Ops;Web+Developer;Data+Science+Trainee" alt="Typing SVG" /></a></h3>
 <h3 align="center">Experienced in System Architect, Web Developer and Business Analyst roles. Certified in Data Science</h3>
 
 <img src="./img/profile.png" width="300" align="right" />
