@@ -5,25 +5,23 @@
 <h3 align="center">A passionate DevOps Engineer and developer from India</h3>
 <p align="center">I'm a passionate DevOps Engineer and developer hailing from India. My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.</p>
 
-<div>
-  
 ### ⚡ Learning and Growth
-<p>I'm in a constant state of learning, with a keen interest in mastering Kubernetes and Terraform. Collaborating on Cloud Computing and Industrial development Projects fuels my enthusiasm, and I'm always open to new opportunities and collaborations.</p>
+- I'm in a constant state of learning, with a keen interest in mastering Kubernetes and Terraform. Collaborating on Cloud Computing and Industrial development Projects fuels my enthusiasm, and I'm always open to new opportunities and collaborations.
 
 ### ⚡ Current Endeavors
-<p>At present, I'm channeling my skills and energy into a variety of projects, all accessible on [prakashzip.com](prakashzip.com). You'll find a mix of technologies and problem-solving approaches that showcase my diverse skill set.</p>
+- At present, I'm channeling my skills and energy into a variety of projects, all accessible on [prakashzip.com](prakashzip.com). You'll find a mix of technologies and problem-solving approaches that showcase my diverse skill set.
 
 ### ⚡ Sharing Knowledge
-<p>Writing is another passion of mine. I regularly contribute articles on [blog.prakashZip.com](blog.prakashZip.com), covering topics ranging from AWS and MS Admin to High Scale Development and Deployment.</p>
+- Writing is another passion of mine. I regularly contribute articles on [blog.prakashZip.com](blog.prakashZip.com), covering topics ranging from AWS and MS Admin to High Scale Development and Deployment.
 
 ### ⚡ Let's Connect
-<p>Curious about AWS, MS Admin, or navigating the challenges of High Scale Development and Deployment? Feel free to reach out to me at [satyaprakash.od@gmail.com](mailto:satyaprakash.od@gmail.com). I'm always up for engaging conversations and sharing insights.</p>
+- Curious about AWS, MS Admin, or navigating the challenges of High Scale Development and Deployment? Feel free to reach out to me at [satyaprakash.od@gmail.com](mailto:satyaprakash.od@gmail.com). I'm always up for engaging conversations and sharing insights.
 
 ### ⚡ Experiences and Achievements
-<P>Explore the depth of my experiences on [prakashzip.com](prakashzip.com), where I've documented my professional journey and showcased my capabilities.</P>
+- Explore the depth of my experiences on [prakashzip.com](prakashzip.com), where I've documented my professional journey and showcased my capabilities.
 
 ### ⚡ Fun Fact
-<p>I hold a belief that I can turn any idea into reality. It's this optimism and creativity that drive my work and make each project a unique venture.</p> </div>
+- I hold a belief that I can turn any idea into reality. It's this optimism and creativity that drive my work and make each project a unique venture.
 
 ## ⚡ Domains
 - DevOps
