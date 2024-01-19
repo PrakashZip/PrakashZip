@@ -43,7 +43,25 @@
 
 
 # 💫 About Me:
-# Satya Prakash Sahoo - DevOps Engineer and Developer 🚀<br><br>I'm a passionate DevOps Engineer and developer hailing from India. My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.<br><br>## 🌱 Learning and Growth<br><br>I'm in a constant state of learning, with a keen interest in mastering Kubernetes and Terraform. Collaborating on Cloud Computing and Industrial development Projects fuels my enthusiasm, and I'm always open to new opportunities and collaborations.<br><br>## 🔭 Current Endeavors<br><br>At present, I'm channeling my skills and energy into a variety of projects, all accessible on [prakashzip.com](prakashzip.com). You'll find a mix of technologies and problem-solving approaches that showcase my diverse skill set.<br><br>## 📝 Sharing Knowledge<br><br>Writing is another passion of mine. I regularly contribute articles on [blog.prakashZip.com](blog.prakashZip.com), covering topics ranging from AWS and MS Admin to High Scale Development and Deployment.<br><br>## 💬 Let's Connect<br><br>Curious about AWS, MS Admin, or navigating the challenges of High Scale Development and Deployment? Feel free to reach out to me at [satyaprakash.od@gmail.com](mailto:satyaprakash.od@gmail.com). I'm always up for engaging conversations and sharing insights.<br><br>## 📄 Experiences and Achievements<br><br>Explore the depth of my experiences on [prakashzip.com](prakashzip.com), where I've documented my professional journey and showcased my capabilities.<br><br>## ⚡ Fun Fact<br><br>I hold a belief that I can turn any idea into reality. It's this optimism and creativity that drive my work and make each project a unique venture.<br><br>## Connect with me:<br>- GitHub: [@prakashzip](https://github.com/prakashzip)<br>- Twitter: [@prakashzip](https://twitter.com/prakashzip)<br>- LinkedIn: [prakashzip](https://linkedin.com/in/prakashzip)<br><br>Feel free to explore my repositories and get in touch for exciting collaborations and discussions! 🚀
+# Satya Prakash Sahoo - DevOps Engineer and Developer 🚀<br><br>
+I'm a passionate DevOps Engineer and developer hailing from India. My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.<br><br>
+## 🌱 Learning and Growth<br><br>
+I'm in a constant state of learning, with a keen interest in mastering Kubernetes and Terraform. Collaborating on Cloud Computing and Industrial development Projects fuels my enthusiasm, and I'm always open to new opportunities and collaborations.<br><br>
+## 🔭 Current Endeavors<br><br>
+At present, I'm channeling my skills and energy into a variety of projects, all accessible on [prakashzip.com](prakashzip.com). You'll find a mix of technologies and problem-solving approaches that showcase my diverse skill set.<br><br>
+## 📝 Sharing Knowledge<br><br>
+Writing is another passion of mine. I regularly contribute articles on [blog.prakashZip.com](blog.prakashZip.com), covering topics ranging from AWS and MS Admin to High Scale Development and Deployment.<br><br>
+## 💬 Let's Connect<br><br>
+Curious about AWS, MS Admin, or navigating the challenges of High Scale Development and Deployment? Feel free to reach out to me at [satyaprakash.od@gmail.com](mailto:satyaprakash.od@gmail.com). I'm always up for engaging conversations and sharing insights.<br><br>
+## 📄 Experiences and Achievements<br><br>
+Explore the depth of my experiences on [prakashzip.com](prakashzip.com), where I've documented my professional journey and showcased my capabilities.<br><br>
+## ⚡ Fun Fact<br><br>
+I hold a belief that I can turn any idea into reality. It's this optimism and creativity that drive my work and make each project a unique venture.<br><br>
+## Connect with me:<br>
+- GitHub: [@prakashzip](https://github.com/prakashzip)<br>
+- Twitter: [@prakashzip](https://twitter.com/prakashzip)<br>
+- LinkedIn: [prakashzip](https://linkedin.com/in/prakashzip)<br><br>
+Feel free to explore my repositories and get in touch for exciting collaborations and discussions! 🚀
 
 
 ## 🌐 Socials:
