@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satya Prakash Sahoo</h1>
 <h3 align="center">A passionate DevOps Engineer and developer from India</h3>
 
-- 🔭 I’m currently working as **Multi-Cloud Engineer.** at Apoyphe
+- 🔭 I’m currently working as **Multi-Cloud Engineer** at Apoyphe.
 
 - 🌱 I’m currently learning **Kubernetes, Terraform.**
 
