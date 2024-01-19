@@ -54,6 +54,6 @@ Feel free to explore my repositories and get in touch for exciting collaboration
 | ------------- | ------------- |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prakashzip&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">Thank you for visiting my Github Profile 😀 !</p>
 
 
