@@ -56,5 +56,5 @@ Feel free to explore my repositories and get in touch for exciting collaboration
 
 <br>
 <br>
-<p align="center">Thank you for visiting my Github Profile 😀 !</p>
+<p align="center">Thank you for visiting my Github Profile 😀 !</p> 
 
