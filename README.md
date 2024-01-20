@@ -6,19 +6,19 @@
   <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="400" alt="GIF" src="https://github.com/PrakashZip/PrakashZip/blob/main/img/coder.gif">
 </a>
 
-- 🌱 Learning ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+- 🌱 Learning &nbsp;![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   
-- 🔭 Channeling energy into diverse projects at [@LinkedIn](https://linkedin.com/in/prakashzip).
+- 🔭 Connecting like minded people at &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashzip)
 
-- 📝 Passionate blogger contributing on [blog.prakashZip.com](https://blog.prakashZip.com).
+- 📝 Passionate blogger contributing on &nbsp;[![prakashzip.com](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://prakashzip.com)
 
-- 💬 Reach out for Cloud / Development projects. ➡️[Contact Me](mailto:satyaprakash.od@gmail.com).
+- 💬 Reach out for Cloud / Development projects at &nbsp;[![Contact Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyaprakash.od@gmail.com)
 
-- 📄 Explore my journey and capabilities at ↗️[prakashzip.com](https://prakashzip.com).
+- 📄 Explore my journey and capabilities at <strong style="font-weight:100"> [PrakashZip.com](https://prakashZip.com) </strong>
 
 - ⚡ Fun Fact: I turn any idea into a unique project.
 
-- 📄 Know about my experiences <a href="https://prakashzip.github.io/SolutionsArch/" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://prakashzip.github.io/SolutionsArch/" target="blank">Resume.</a>
 <br/>
 
 
@@ -57,6 +57,4 @@ Feel free to explore my repositories and get in touch for exciting collaboration
 <br>
 <br>
 <p align="center">Thank you for visiting my Github Profile 😀 !</p>
-
-
 
