@@ -3,7 +3,7 @@
 <p align="center">My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.</p><br>
 
 <a target="_blank" align="center" >
-  <img style="padding: 3px 3px 0px 3px;" align="right" top="700" height="300" width="400" alt="GIF" src="https://github.com/PrakashZip/PrakashZip/blob/main/img/coder.gif">
+  <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="400" alt="GIF" src="https://github.com/PrakashZip/PrakashZip/blob/main/img/coder.gif">
 </a>
 
 - 🌱 Currently Learning ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
