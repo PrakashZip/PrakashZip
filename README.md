@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, I'm Satya Prakash</h1>
-<h3 align="center">A passionate DevOps Engineer and developer from India</h3><br>
+<h3 align="center">A passionate DevOps Engineer and Developer from India</h3><br>
 <p align="center">My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.</p><br>
 
 <a target="_blank" align="center" >
