@@ -2,27 +2,35 @@
 
 
 <h1 align="center">Hello there👋, I'm Satya Prakash</h1>
-<h3 align="center">A passionate DevOps Engineer and developer from India</h3>
-<p align="center">I'm a passionate DevOps Engineer and developer hailing from India. My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.</p>
+<h3 align="center">A passionate DevOps Engineer and developer from India</h3><br>
+<p align="center">My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.</p><br>
 
-- 🌱 Always mastering Kubernetes and Terraform, eager for Cloud Computing collaborations.
+<a target="_blank" align="center" >
+  <img align="right" top="700" height="300" width="400" alt="GIF" src="https://github.com/PrakashZip/PrakashZip/blob/main/img/coder.gif">
+</a>
+
+- 🌱 Currently Learning ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   
-- 🔭 Channeling energy into diverse projects at prakashzip.com, showcasing versatile skills.
+- 🔭 Channeling energy into diverse projects, Ping me [@LinkedIn](https://linkedin.com/in/prakashzip).
 
-- 📝 Passionate writer contributing on blog.prakashZip.com, covering AWS, MS Admin, and more.
+- 📝 Passionate blogger contributing on [blog.prakashZip.com](https://blog.prakashZip.com).
 
-- 💬 Reach out for insights on AWS, MS Admin, or High Scale Development at satyaprakash.od@gmail.com.
+- 💬 Reach out for Cloud Deployment / Development at [satyaprakash.od@gmail.com](mailto:satyaprakash.od@gmail.com).
 
-- 📄 Explore my journey and capabilities at prakashzip.com.
+- 📄 Explore my journey and capabilities at [prakashzip.com](https://prakashzip.com).
 
 - ⚡ Fun Fact: I turn any idea into a unique project.
+
+- 📄 Know about my experiences <a href="https://prakashzip.github.io/SolutionsArch/" target="blank">Resume</a>
+<br/>
+
 
 ## ⚡ Domains
 - DevOps
 - Cloud
 - Development
 
-## Connect with me:<br>
+## 📧 Connect with me:<br>
 - GitHub: [@prakashzip](https://github.com/prakashzip)<br>
 - Twitter: [@prakashzip](https://twitter.com/prakashzip)<br>
 - LinkedIn: [@prakashzip](https://linkedin.com/in/prakashzip)<br><br>
@@ -37,15 +45,21 @@ Feel free to explore my repositories and get in touch for exciting collaboration
 
 
 ## ⚡ My GitHub Stats
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kunchalavikram1427&show_icons=true&theme=gotham" alt="kunchalavikram1427" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kunchalavikram1427&show_icons=true&line_height=27&include_all_commits=true"/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&hide=TeX&layout=compact)
- -->
 | <a href="https://github.com/prakashZip/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashZip&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prakash's github stats" /></a> | <a href="https://github.com/prakashZip/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashZip&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
+## ⚡ Top Repositories
+<a href="https://github.com/PrakashZip/College-System-Laravel.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrakashZip&repo=College-System-Laravel&theme=buefy" />
+</a>
+<a href="https://github.com/PrakashZip/Discussion-fourm.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrakashZip&repo=Discussion-fourm&theme=buefy" />
+</a>
+
+<br>
+<br>
 <p align="center">Thank you for visiting my Github Profile 😀 !</p>
+
 
 
