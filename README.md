@@ -6,15 +6,15 @@
   <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="400" alt="GIF" src="https://github.com/PrakashZip/PrakashZip/blob/main/img/coder.gif">
 </a>
 
-- 🌱 Currently Learning ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+- 🌱 Learning ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   
-- 🔭 Channeling energy into diverse projects, Ping me [@LinkedIn](https://linkedin.com/in/prakashzip).
+- 🔭 Channeling energy into diverse projects at [@LinkedIn](https://linkedin.com/in/prakashzip).
 
 - 📝 Passionate blogger contributing on [blog.prakashZip.com](https://blog.prakashZip.com).
 
-- 💬 Reach out for Cloud Deployment / Development at [satyaprakash.od@gmail.com](mailto:satyaprakash.od@gmail.com).
+- 💬 Reach out for Cloud / Development projects. ➡️[Contact Me](mailto:satyaprakash.od@gmail.com).
 
-- 📄 Explore my journey and capabilities at [prakashzip.com](https://prakashzip.com).
+- 📄 Explore my journey and capabilities at ↗️[prakashzip.com](https://prakashzip.com).
 
 - ⚡ Fun Fact: I turn any idea into a unique project.
 
